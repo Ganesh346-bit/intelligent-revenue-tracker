@@ -130,12 +130,6 @@ docker run --rm -p 8501:8501 revenue-tracker
 
 ---
 
-## 📈 Sample Forecast
-
-<img src="https://raw.githubusercontent.com/Ganesh346-bit/intelligent-revenue-tracker/main/assets/sample_output.png" width="600"/>
-
----
-
 ## 📣 Credits
 
 Built by [Sai Ganesh Kalmali](https://www.linkedin.com/in/ganesh-kalmali-9b1265343/)
