@@ -138,5 +138,5 @@ docker run --rm -p 8501:8501 revenue-tracker
 
 ## 📣 Credits
 
-Built with 💡 by [Ganesh Kalmali](https://www.linkedin.com/in/ganeshkalmali)
+Built by [Sai Ganesh Kalmali](https://www.linkedin.com/in/ganeshkalmali)
 
